@@ -1,7 +1,7 @@
 ---
 title: "Kontakt"
 date: 2018-01-30T17:51:08+01:00
-draft: true
+
 ---
 
 <form action="https://formspree.io/anne_linde@yahoo.dk"

@@ -1,7 +1,7 @@
 ---
 title: "Forside"
 date: 2018-01-30T17:19:37+01:00
-draft: true
+
 ---
 
 ## Velkommen til Hugo Photography
